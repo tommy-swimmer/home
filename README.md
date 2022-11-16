@@ -1,2 +1,2 @@
 # Currently Under Construction
-![Alt Text](https://media.giphy.com/media/uyoXx0qpUWfQs/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200" height="200" />
