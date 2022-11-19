@@ -7,3 +7,4 @@ plugins:
 # Title of the site
 title: Hello There
 description: Water goes to the Desert. Collects in small pools. Meditates.
+future: true
