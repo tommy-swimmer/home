@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: "post"
 title:  "Hi There"
-published: true
 ---
 
 # Welcome
