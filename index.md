@@ -2,11 +2,6 @@
 layout: default
 ---
 
-Not exactly sure what I'm doing, but I've gotten this far. 
-Welcome to my website.
-
-You can find my blogs [here](./blog/)
-
 # Blogs
 {% for post in site.posts %}
  
@@ -16,5 +11,12 @@ You can find my blogs [here](./blog/)
  
 </ul>
 {% endfor %}
+
+Not exactly sure what I'm doing, but I've gotten this far. 
+Welcome to my website.
+
+You can find my blogs [here](./blog/)
+
+
 
 
