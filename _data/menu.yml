@@ -10,7 +10,7 @@ entries:
       - title: Linked-in
         url: https://linkedin.com/in/tommyswimmer
       - title: Resume
-        url: "/assets/pdf/TommySwimmer_Resume_Two_Page.pdf"
+        url: "/assets/pdf/TommySwimmer_Resume_Two_Page.pdf" "download"
      # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
      
 #  - title: all posts
