@@ -11,5 +11,3 @@ Tommy Swimmer
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 [Writings](./another-page.html).
-
-You can find my blogs [here](./blog/)
