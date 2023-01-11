@@ -1,6 +1,6 @@
 # Title of the site
-title: [Hello There]
-description: [Water goes to the Desert. Collects in small pools. Meditates.]
+title: Hello There
+description: Water goes to the Desert. Collects in small pools. Meditates.
 
 # Build Settings branched
 markdown: kramdown
