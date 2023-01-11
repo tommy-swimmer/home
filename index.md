@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 I'm not sure what this website is going to be about. There may be projects, but there will most likely just be writings. Thank you for taking the time to look around.
