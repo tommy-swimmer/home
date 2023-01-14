@@ -3,8 +3,7 @@ author: Tommy Swimmer # name of site's author
 email: tommyswimmer@gmail.com # email of site's author
 url: https://tommy-swimmer.github.io # root address of the site
 baseurl: "/home" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
-  |\n
+description: |\n # description of the site (multiple lines allowed)
 ··Water goes to the desert\n
 ··Collects in small pools\n
 ··Meditates\n
