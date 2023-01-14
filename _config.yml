@@ -4,13 +4,11 @@ email: tommyswimmer@gmail.com # email of site's author
 url: https://tommy-swimmer.github.io # root address of the site
 baseurl: "/home" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Water goes to the desert \n
-  \n
-  Collects in small pools \n
-  \n
-  Meditates
-
-permalink: /:slug.html
+  |\n
+··Water goes to the desert\n
+··Collects in small pools\n
+··Meditates\n
+··\n
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
