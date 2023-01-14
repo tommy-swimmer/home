@@ -4,8 +4,10 @@ email: tommyswimmer@gmail.com # email of site's author
 url: https://tommy-swimmer.github.io # root address of the site
 baseurl: "/home" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Water goes to the desert
-  Collects in small pools
+  Water goes to the desert \n
+  \n
+  Collects in small pools \n
+  \n
   Meditates
 
 permalink: /:slug.html
