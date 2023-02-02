@@ -12,7 +12,7 @@ If someone is going through the same process I have some tips:
 
 1. Don't use Lindeburg, it's outdated, over-the-top difficult, and discouraging
 2. Use PrepFE, it relatively cheap, decent difficulty, but the question bank is low
-3. Take at least one practice test (mimicing the actual environment)
+3. Take at least one practice test (mimicking the actual environment)
 4. Study even when you don't want to
 
 There's a common misconception that you have to be motivated in order to complete a task. Although it would be nice to have motivation to complete something, if you just make up your mind to complete it regardless of how you feel, then eventually you will have sufficient willpower to override motivation. At least that's how I felt after going through this experience. Nike rings true.
