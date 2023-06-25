@@ -13,8 +13,10 @@ There have been a handful of things in my life that get me to that place of noth
 *I hope.....*  
 *I wish.....*  
 *I pray.....*  
-*.....*  
-*........*
+*..........*  
+*..........*  
+*..........*  
+*..........*  
 *This is hard*
 
 
